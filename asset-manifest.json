@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/imranNBZ/Portfolio_IN/static/css/main.516dae90.css",
-    "main.js": "/imranNBZ/Portfolio_IN/static/js/main.5454f0ba.js",
-    "static/js/453.b05d8aa5.chunk.js": "/imranNBZ/Portfolio_IN/static/js/453.b05d8aa5.chunk.js",
-    "static/media/Imran.png": "/imranNBZ/Portfolio_IN/static/media/Imran.0ae3950c49df28844159.png",
-    "static/media/pickup_soccer.png": "/imranNBZ/Portfolio_IN/static/media/pickup_soccer.a5d0742625e13efbd336.png",
-    "static/media/bg-light.png": "/imranNBZ/Portfolio_IN/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/imranNBZ/Portfolio_IN/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/roadsidebuddy.png": "/imranNBZ/Portfolio_IN/static/media/roadsidebuddy.20d25cb0546e94a8ca13.png",
-    "static/media/warbler.png": "/imranNBZ/Portfolio_IN/static/media/warbler.64c53604847500b69a16.png",
-    "static/media/jobly.png": "/imranNBZ/Portfolio_IN/static/media/jobly.cd7a654561aaf07840ed.png",
-    "index.html": "/imranNBZ/Portfolio_IN/index.html",
-    "main.516dae90.css.map": "/imranNBZ/Portfolio_IN/static/css/main.516dae90.css.map",
-    "main.5454f0ba.js.map": "/imranNBZ/Portfolio_IN/static/js/main.5454f0ba.js.map",
-    "453.b05d8aa5.chunk.js.map": "/imranNBZ/Portfolio_IN/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/Portfolio_IN/static/css/main.5293e2c8.css",
+    "main.js": "/Portfolio_IN/static/js/main.19b11807.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Portfolio_IN/static/js/453.b05d8aa5.chunk.js",
+    "static/media/Imran.png": "/Portfolio_IN/static/media/Imran.0ae3950c49df28844159.png",
+    "static/media/pickup_soccer.png": "/Portfolio_IN/static/media/pickup_soccer.a5d0742625e13efbd336.png",
+    "static/media/bg-light.png": "/Portfolio_IN/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/Portfolio_IN/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/roadsidebuddy.png": "/Portfolio_IN/static/media/roadsidebuddy.20d25cb0546e94a8ca13.png",
+    "static/media/warbler.png": "/Portfolio_IN/static/media/warbler.64c53604847500b69a16.png",
+    "static/media/jobly.png": "/Portfolio_IN/static/media/jobly.cd7a654561aaf07840ed.png",
+    "index.html": "/Portfolio_IN/index.html",
+    "main.5293e2c8.css.map": "/Portfolio_IN/static/css/main.5293e2c8.css.map",
+    "main.19b11807.js.map": "/Portfolio_IN/static/js/main.19b11807.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Portfolio_IN/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.516dae90.css",
-    "static/js/main.5454f0ba.js"
+    "static/css/main.5293e2c8.css",
+    "static/js/main.19b11807.js"
   ]
 }

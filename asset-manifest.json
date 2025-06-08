@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/imranNBZ/Portfolio_IN/static/css/main.b988aecc.css",
+    "main.js": "/imranNBZ/Portfolio_IN/static/js/main.4792febf.js",
+    "static/js/453.b05d8aa5.chunk.js": "/imranNBZ/Portfolio_IN/static/js/453.b05d8aa5.chunk.js",
+    "static/media/Imran.png": "/imranNBZ/Portfolio_IN/static/media/Imran.0ae3950c49df28844159.png",
+    "static/media/pickup_soccer.png": "/imranNBZ/Portfolio_IN/static/media/pickup_soccer.a5d0742625e13efbd336.png",
+    "static/media/bg-light.png": "/imranNBZ/Portfolio_IN/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/imranNBZ/Portfolio_IN/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/roadsidebuddy.png": "/imranNBZ/Portfolio_IN/static/media/roadsidebuddy.20d25cb0546e94a8ca13.png",
+    "static/media/warbler.png": "/imranNBZ/Portfolio_IN/static/media/warbler.64c53604847500b69a16.png",
+    "static/media/jobly.png": "/imranNBZ/Portfolio_IN/static/media/jobly.cd7a654561aaf07840ed.png",
+    "index.html": "/imranNBZ/Portfolio_IN/index.html",
+    "main.b988aecc.css.map": "/imranNBZ/Portfolio_IN/static/css/main.b988aecc.css.map",
+    "main.4792febf.js.map": "/imranNBZ/Portfolio_IN/static/js/main.4792febf.js.map",
+    "453.b05d8aa5.chunk.js.map": "/imranNBZ/Portfolio_IN/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b988aecc.css",
+    "static/js/main.4792febf.js"
+  ]
+}
